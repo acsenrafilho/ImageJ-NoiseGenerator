@@ -9,6 +9,7 @@ package classes;
 //TODO Comentar a classe apropriadamente
 
 import classes.ImageAccess;
+import ij.IJ;
 
 
 /**
