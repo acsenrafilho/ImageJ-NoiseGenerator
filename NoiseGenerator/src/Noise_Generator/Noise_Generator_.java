@@ -7,14 +7,11 @@ package Noise_Generator;
 
 import classes.ImageAccess;
 import classes.Noise;
-import ij.IJ;
 import ij.ImagePlus;
 import ij.WindowManager;
 import ij.gui.GenericDialog;
-import ij.plugin.PlugIn;
 import ij.plugin.filter.PlugInFilter;
 import ij.process.ImageProcessor;
-import ij.process.ShortProcessor;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
